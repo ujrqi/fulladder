@@ -1,1 +1,1 @@
-This is my first real attempt to divise between structural and behavioural abstraction coding in verilog. Developed around June 2025
+This is my first attempt to distinguish “behavioral” from “structural” abstraction design in verilog (the files with _struct_ in their name are structural, the others are behavioural). Developed around June 2025
